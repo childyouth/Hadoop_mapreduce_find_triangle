@@ -1,12 +1,12 @@
 # Hadoop_mapreduce_find_triangle
 
-RUN
+RUN\
 /src/test/java/triangle/TriangleTest.java
 
-INPUT
+INPUT\
 /src/test/resources/graph.txt
 
-INPUT FORMAT
+INPUT FORMAT\
 (NODE_NAME_A, NODE_NAME_B) NODE_NAME_A_DEGREE NODE_NAME_B_DEGREE
 
 
